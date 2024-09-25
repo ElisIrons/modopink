@@ -14,7 +14,6 @@ Saindo um pouco do habitual entre modo claro e escuro, este projeto altera para 
 - **Modo Pink (light)**: O modo padrão é rosa, fugindo da tradicional paleta de temas claros.
 - **Modo Dark**: Quando ativado, o modo dark altera o fundo além de ajustar os ícones.
 
-## Como Usar
-- Acesse: https://elisirons.github.io/modopink/
+## Acesso
+-  https://elisirons.github.io/modopink/
 
-Simples, direto e com um toque de cor fora do comum!
